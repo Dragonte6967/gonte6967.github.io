@@ -38,11 +38,11 @@
 
 1. 点击多人游戏
    
-   <img src="/images/2022-07-24-10-08-52-image.png?raw=true" alt="2022-07-24-10-08-52-image.png">
+   <img src="/images/2022-07-24-10-08-52-image.png?raw=true" alt="2022-07-24-10-08-52-image.png" width="256">
 
 2. 添加服务器    
    
-  <img src="/images/2022-07-24-10-11-05-image.png?raw=true" alt="2022-07-24-10-11-05-image.png">
+  <img src="/images/2022-07-24-10-11-05-image.png?raw=true" alt="2022-07-24-10-11-05-image.png" width="256">
 
 3. 服务器地址详见群公告
 
@@ -50,15 +50,15 @@
 
 1. 确认你已经登陆
    
-   <img src="/images/2022-07-24-10-14-56-image.png" title="" alt="" width="267">
+   <img src="/images/2022-07-24-10-14-56-image.png" title="" alt="" width="256">
 
 2. 点击游戏—服务器，划到最下面，添加服务器
    
-   <img src="file:///C:/Users/李龙/AppData/Roaming/marktext/images/2022-07-24-10-15-43-image.png" title="" alt="" width="266">
+   <img src="/images/2022-07-24-10-15-43-image.png" title="" alt="" width="256">
 
 3. 地址详见群公告
    
-   <img src="file:///C:/Users/李龙/AppData/Roaming/marktext/images/2022-07-24-10-17-17-image.png" title="" alt="" width="264">
+   <img src="/images/2022-07-24-10-17-17-image.png" title="" alt="" width="256">
 
 ## 传送指令
 
