@@ -28,7 +28,7 @@
    
    <font color=red>注意：填写生日时要成年</font>
    
-   <img src="file:///C:/Users/李龙/AppData/Roaming/marktext/images/2022-07-24-10-11-05-image.png" title="" alt="" width="279">
+ <img src="/Dragonte6967/dragonte6967.github.io/blob/main/images/2022-07-24-10-03-18-image.png?raw=true" alt="2022-07-24-10-03-18-image.png">
 
 3.启动并登录游戏   
 
@@ -38,11 +38,11 @@
 
 1. 点击多人游戏
    
-   <img src="file:///C:/Users/李龙/AppData/Roaming/marktext/images/2022-07-24-10-08-52-image.png" title="" alt="" width="271">
+   <img src="/Dragonte6967/dragonte6967.github.io/blob/main/images/2022-07-24-10-08-52-image.png?raw=true" alt="2022-07-24-10-08-52-image.png">
 
 2. 添加服务器    
    
-   <img src="file:///C:/Users/李龙/AppData/Roaming/marktext/images/2022-07-24-10-11-53-image.png" title="" alt="" width="268">
+  <img src="/Dragonte6967/dragonte6967.github.io/blob/main/images/2022-07-24-10-11-05-image.png?raw=true" alt="2022-07-24-10-11-05-image.png">
 
 3. 服务器地址详见群公告
 
