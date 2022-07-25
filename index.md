@@ -42,7 +42,7 @@
 
 2. 添加服务器    
    
-   <img src="/images/2022-07-24-10-11-05-image.png?raw=true" alt="2022-07-24-10-11-05-image.png" >
+   <img src="/images/2022-07-24-10-11-53-image.png?raw=true" alt="2022-07-24-10-11-05-image.png" >
 
 3. 服务器地址详见群公告
 
