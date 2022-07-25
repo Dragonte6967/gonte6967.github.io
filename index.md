@@ -28,7 +28,7 @@
    
    <font color=red>注意：填写生日时要成年</font>
    
- <img src="/Dragonte6967/dragonte6967.github.io/blob/main/images/2022-07-24-10-03-18-image.png?raw=true" alt="2022-07-24-10-03-18-image.png">
+ <img src="/images/2022-07-24-10-03-18-image.png?raw=true" alt="2022-07-24-10-03-18-image.png">
 
 3.启动并登录游戏   
 
